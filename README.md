@@ -35,24 +35,6 @@ ShopWithErrrow404 is designed as a scalable e-commerce solution where users can 
 
 ---
 
-## 📁 Project Structure
-
-ShopWithErrrow404/
-├── public/ # Public assets
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── screens/ # App screens
-│ ├── navigation/ # Navigation setup
-│ ├── assets/ # Images, fonts, icons
-│ └── utils/ # Helpers & utilities
-├── .gitignore
-├── app.json
-├── package.json
-└── README.md
-
-
-
----
 
 ## 📥 Installation
 
@@ -63,24 +45,20 @@ git clone https://github.com/ayaz7964/ShopWithErrrow404.git
 Go into the project directory:
 
 ```
-```
+
 cd ShopWithErrrow404
 Install dependencies:
 
-
+```
 npm install
 or
-
-
 yarn install
+```
 Start the development server:
-
+```
 npm start
-Then run on your device/emulator:
+```
 
-npm run android
-# or
-npm run ios
 🛠️ How to Use
 Browse products on the home screen.
 
@@ -119,7 +97,7 @@ This project is open source and available under the MIT License.
 
 
 
----
+
 
 If you want, I can also add:
 ✅ Badges (e.g., React Native, MIT)  
