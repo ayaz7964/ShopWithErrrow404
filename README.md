@@ -58,11 +58,12 @@ ShopWithErrrow404/
 
 Clone the repository:
 
-```bash
+```
 git clone https://github.com/ayaz7964/ShopWithErrrow404.git
 Go into the project directory:
 
-
+```
+```
 cd ShopWithErrrow404
 Install dependencies:
 
