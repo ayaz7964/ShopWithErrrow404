@@ -104,5 +104,4 @@ If you want, I can also add:
 ✅ Screenshots / Demo GIF section  
 ✅ A more detailed **installation guide** with screenshots
 
-Just tell me!
-::contentReference[oaicite:0]{index=0}
+**Just tell me! or email me**
