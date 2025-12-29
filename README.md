@@ -1,4 +1,4 @@
-# 🛍️ ShopWithErrrow404
+ # 🛍️ ShopWithErrrow404
 
 **ShopWithErrrow404** is a modern and responsive **e-commerce mobile app** built with **React Native** during the **SIBA Tech Fest hackathon**.  
 This project showcases a functional shopping platform with an intuitive UI and smooth user experience.
@@ -44,9 +44,9 @@ Clone the repository:
 git clone https://github.com/ayaz7964/ShopWithErrrow404.git
 
 ```
--Go into the project directory:
--cd ShopWithErrrow404
--Install dependencies:
+- Go into the project directory:
+- cd ShopWithErrrow404
+- Install dependencies:
 
 ```
 npm install
