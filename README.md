@@ -42,10 +42,9 @@ Clone the repository:
 
 ```
 git clone https://github.com/ayaz7964/ShopWithErrrow404.git
-Go into the project directory:
 
 ```
-
+Go into the project directory:
 cd ShopWithErrrow404
 Install dependencies:
 
