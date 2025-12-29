@@ -59,14 +59,14 @@ Start the development server:
 npm start
 ```
 
-🛠️ How to Use
+**🛠️ How to Use**
 Browse products on the home screen.
 
 Tap a product to view its details.
 
 Continue exploring features and interface.
 
-📌 Future Enhancements
+**📌 Future Enhancements**
 💡 Upcoming improvements:
 
 User authentication (login/signup)
@@ -79,7 +79,7 @@ Real-time inventory & search
 
 Wishlist & recommendations
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions are welcome!
 
 Fork the repository
@@ -90,13 +90,10 @@ Commit your changes
 
 Open a Pull Request
 
-📜 License
+**📜 License**
 This project is open source and available under the MIT License.
 
-⭐ If you found this project useful, give it a ⭐ and share it! ⭐
-
-
-
+**⭐ If you found this project useful, give it a ⭐ and share it! ⭐**
 
 
 If you want, I can also add:
