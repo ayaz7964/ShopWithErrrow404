@@ -58,15 +58,15 @@ Start the development server:
 ```
 npm start
 ```
-
-**🛠️ How to Use**
+---
+## 🛠️ How to Use
 Browse products on the home screen.
 
 Tap a product to view its details.
 
 Continue exploring features and interface.
-
-**📌 Future Enhancements**
+---
+## 📌 Future Enhancements
 💡 Upcoming improvements:
 
 User authentication (login/signup)
@@ -77,9 +77,11 @@ Backend API integration
 
 Real-time inventory & search
 
-Wishlist & recommendations
+---
 
-**🤝 Contributing**
+# Wishlist & recommendations
+
+## 🤝 Contributing
 Contributions are welcome!
 
 Fork the repository
