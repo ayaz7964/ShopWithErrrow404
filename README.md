@@ -1,6 +1,6 @@
- # 🛍️ ShopWithErrrow404
+ # 🛍️ ShopWithError404
 
-**ShopWithErrrow404** is a modern and responsive **e-commerce mobile app** built with **React Native** during the **SIBA Tech Fest hackathon**.  
+**ShopWithError404** is a modern and responsive **e-commerce mobile app** built with **React Native** during the **SIBA Tech Fest hackathon**.  
 This project showcases a functional shopping platform with an intuitive UI and smooth user experience.
 
 🎯 **Live Preview (Web version):** https://shopwitherror404.vercel.app/
@@ -9,7 +9,7 @@ This project showcases a functional shopping platform with an intuitive UI and s
 
 ## 🚀 About the Project
 
-ShopWithErrrow404 is designed as a scalable e-commerce solution where users can browse products with a clean UI and performance-focused experience. The app was developed collaboratively in a limited time as a hackathon project to demonstrate mobile development using React Native.
+ShopWithError404 is designed as a scalable e-commerce solution where users can browse products with a clean UI and performance-focused experience. The app was developed collaboratively in a limited time as a hackathon project to demonstrate mobile development using React Native.
 
 ---
 
@@ -41,11 +41,11 @@ ShopWithErrrow404 is designed as a scalable e-commerce solution where users can 
 Clone the repository:
 
 ```
-git clone https://github.com/ayaz7964/ShopWithErrrow404.git
+git clone https://github.com/ayaz7964/ShopWithError404.git
 
 ```
 - Go into the project directory:
-- cd ShopWithErrrow404
+- cd ShopWithError404
 - Install dependencies:
 
 ```
